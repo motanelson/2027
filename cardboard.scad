@@ -106,6 +106,18 @@ module aba_traseira() {
             cylinder(h=10, r=8, $fn=30);
         }
     }
+    // Fechos para Velcro - 4 pontos
+    for(x = [20, largura_visor/2, largura_visor-20]) {
+        for(z = [10, 13, 16,  20]) {
+            translate([x, profundidade_visor + 4, z-18])
+            rotate([90, 0, 0])
+            cylinder(h=10, r=5, $fn=30);
+        }
+    }
+
+    
+
+
 }
 
 // Suporte para telemóvel
