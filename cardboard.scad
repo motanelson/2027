@@ -141,7 +141,7 @@ module abas_olhos() {
     color("Yellow")
 
     // Proteção lateral esquerda
-    translate([-15, 20, 25])
+    translate([-15, 20, 13])
     rotate([0, -30, 0])
     cube([20, 40, 3]);
     
@@ -163,6 +163,9 @@ union() {
 
 // ========== VISUALIZAÇÃO DO CONJUNTO ==========
 // Telemóvel (visualização)
+%translate([(largura_visor - largura_tele)/2, 0, -10])
+color("Yellow", 0.3)
+cube([largura_tele, 5, altura_tele]);
 
 
 // Alça de cabeça (sugestão)
