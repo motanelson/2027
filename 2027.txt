@@ -1,6 +1,6 @@
                             2027
       January               February               March          
-Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  
+DM SG TR QR QT SX SA  DM SG TR QR QT SX SA  DM SG TR QR QT SX SA  
                 1  2      1  2  3  4  5  6      1  2  3  4  5  6  
  3  4  5  6  7  8  9   7  8  9 10 11 12 13   7  8  9 10 11 12 13  
 10 11 12 13 14 15 16  14 15 16 17 18 19 20  14 15 16 17 18 19 20  
@@ -9,7 +9,7 @@ Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa
 31                                                                
 
        April                  May                   June          
-Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  
+DM SG TR QR QT SX SA  DM SG TR QR QT SX SA  DM SG TR QR QT SX SA  
              1  2  3                     1         1  2  3  4  5  
  4  5  6  7  8  9 10   2  3  4  5  6  7  8   6  7  8  9 10 11 12  
 11 12 13 14 15 16 17   9 10 11 12 13 14 15  13 14 15 16 17 18 19  
@@ -18,7 +18,7 @@ Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa
                       30 31                                       
 
         July                 August              September        
-Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  
+DM SG TR QR QT SX SA  DM SG TR QR QT SX SA  DM SG TR QR QT SX SA  
              1  2  3   1  2  3  4  5  6  7            1  2  3  4  
  4  5  6  7  8  9 10   8  9 10 11 12 13 14   5  6  7  8  9 10 11  
 11 12 13 14 15 16 17  15 16 17 18 19 20 21  12 13 14 15 16 17 18  
@@ -27,7 +27,7 @@ Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa
                                                                   
 
       October               November              December        
-Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  
+DM SG TR QR QT SX SA  DM SG TR QR QT SX SA  DM SG TR QR QT SX SA  
                 1  2      1  2  3  4  5  6            1  2  3  4  
  3  4  5  6  7  8  9   7  8  9 10 11 12 13   5  6  7  8  9 10 11  
 10 11 12 13 14 15 16  14 15 16 17 18 19 20  12 13 14 15 16 17 18  
